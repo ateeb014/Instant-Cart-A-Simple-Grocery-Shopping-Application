@@ -1,1 +1,1 @@
-# ShoppingCartProject-python
+# Shopping Cart Project-python
