@@ -1,0 +1,45 @@
+Butter, salted|Dairy|2.99|lb
+Butter, whipped, with salt|Dairy|3.99|lb
+Cheese, american|Dairy|4.99|lb
+Cheese, cheddar|Dairy|5.99|lb
+Egg, white|Dairy|1.99|dozen
+Egg, brown|Dairy|2.99|dozen
+Egg white|Dairy|3.99|Oz
+Buttermilk|Dairy|2.99|lb
+Chocolate Milk|Dairy|2.00|Gallon
+Milk, reduced fat, 2%|Dairy|1.99|Gallon
+Milk, whole|Dairy|2.99|Gallon
+Yogurt, nonfat|Dairy|2.99|lb
+Yogurt, whole|Dairy|2.99|lb
+Apples|Fruit|3.99|lb
+Oranges|Fruit|2.99|lb
+Banana|Fruit|1.69|lb
+Grapes|Fruit|3.99|lb
+Blueberry|Fruit|4.99|pint
+Strawberry|Fruit|3.87|lb
+Pineapple|Fruit|1.99|each
+Raisins|Fruit|3.99|lb
+Cauliflower|Vegetable|1.99|lb
+Brocolli|Vegetable|1.99|lb
+Spinach|Vegetable|1.99|packet
+Baby SpinachCauliflower|Vegetable|2.99|lb
+Beet|Vegetable|1.99|lb
+Bell Pepper|Vegetable|1.00|each
+Carrots|Vegetable|2.99|lb
+Potatoes|Vegetable|2.99|lb
+Onions|Vegetable|1.69|lb
+Tomato|Vegetable|2.99|lb
+Whole chicken organic|poultry|4.99|lb
+Whole chicken|poultry|2.99|lb
+Thigh chicken|poultry|2.99|lb
+Breast chicken|poultry|2.99|lb
+Chicken ground|poultry|2.99|lb
+Turkey breast|poultry|3.99|lb
+Beef Chuck|meat|2.99|lb
+Beef Patties|meat|2.99|lb
+Ham|meat|2.99|lb
+Salmon, Atlantic|seafood|4.99|lb
+Salmon, Sokeye|seafood|5.99|lb
+Shrimp, raw, tail on|seafood|5.99|lb
+Shrimp, raw, tail on|seafood|5.99|lb
+Tilapia|seafood|2.99|lb
