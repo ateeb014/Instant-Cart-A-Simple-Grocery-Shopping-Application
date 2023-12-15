@@ -15,7 +15,7 @@ This project demonstrates a simple user cart for grocery shopping, implementing 
 1. Implements the graphical user interface for grocery shopping.
 2. Main Menu: Welcome screen with start ordering and exit buttons.
 3. Choose Category: Displays category options (Dairy, Vegetable and Fruit, Poultry, Seafood).
-4. Selected Category: Allows users to select items, enter quantities, and add to cart.
+4. Select Category: Allows users to select items, enter quantities, and add to cart.
 5. Checkout: Displays a summary of the purchase, including receipt information.
 
 # Program Workflow
